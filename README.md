@@ -59,7 +59,7 @@
 
 ### 📌 대표 프로젝트
 
-#### [helloAPI](여기에_저장소_링크)
+#### [helloAPI](https://github.com/Jinny0827/helloAPI)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://helloapi.bowling-manager.com/)
 
