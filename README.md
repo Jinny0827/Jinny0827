@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=26&pause=1200&duration=3000&color=6C63FF&center=true&vCenter=true&width=620&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%95%EC%9B%90%EC%A7%84%EC%9E%85%EB%8B%88%EB%8B%A4;%EC%84%B1%EC%8B%A4%ED%95%A8%EA%B3%BC+%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0+%EB%8A%A5%EB%A0%A5%EC%9D%84+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98+%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%A1%9C+%EC%83%9D%EA%B0%81%ED%95%A9%EB%8B%88%EB%8B%A4;%EA%B7%BC%EB%B3%B8+%EC%9B%90%EC%9D%B8%EC%9D%84+%ED%8C%8C%EA%B3%A0%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" />
+# 정원진
+
+**Backend Developer**
 
 [![Blog](https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://wjjung.tistory.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinny0827)
 
 </div>
 
-성실함과 문제 해결 능력은 개발자의 가장 기초적인 덕목이라고 생각합니다.
-예상치 못한 기술적 난관을 마주해도 회피하지 않고 근본 원인을 파악해 구조적으로 해결하려 합니다.
+<br>
+
+> 성실함과 문제 해결 능력은 개발자의 가장 기초적인 덕목이라고 생각합니다.
+> 예상치 못한 기술적 난관을 마주해도 회피하지 않고 근본 원인을 파악해 구조적으로 해결하려 합니다.
 
 <br>
 
@@ -61,7 +65,7 @@ API 명세 자동 문서화 & 테스트 도구. CLI로 코드(Spring / FastAPI /
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jinny0827&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jinny0827&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jinny0827&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
